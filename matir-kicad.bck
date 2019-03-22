@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232H
+D FT2232 in 64 pin package
+$ENDCMP
+#
+$CMP FT2232H-56
+D FT2232 in 64 pin package
+$ENDCMP
+#
+$CMP FT2232H-64
+D FT2232 in 64 pin package
+$ENDCMP
+#
+#End Doc Library
